@@ -58,13 +58,14 @@ Key insight: Applicants with public records tend to have higher interest rates a
 - Loan purposes such as debt consolidation and credit card loans have a significant impact on interest rates and debt-to-income ratios.
 - Delinquencies and public records heavily influence the terms and conditions offered by lenders.
 - Longer credit histories are associated with lower risk and better loan terms for the applicant.
-![Alt text]("Assets/Screenshot 2024-09-15 162843.png")
-![Alt text]("Assets/Screenshot 2024-09-15 163055.png")
-![Alt text]("Assets/Screenshot 2024-09-15 163114.png")
-![Alt text]("Assets/Screenshot 2024-09-15 163133.png")
-![Alt text]("Assets/Screenshot 2024-09-15 163200.png")
-![Alt text]("Assets/Screenshot 2024-09-15 163220.png")
-![Alt text]("Assets/Screenshot 2024-09-15 163055.png")
+![Alt text](Assets/ss1.png)
+![Alt text](Assets/ss2.png)
+![Alt text](Assets/ss3.png)
+![Alt text](Assets/ss4.png)
+![Alt text](Assets/ss5.png)
+![Alt text](Assets/ss6.png)
+![Alt text](Assets/ss7.png)
+
 
 ## Conclusion
 This EDA project provides valuable insights into loan applicant behavior and lending risk assessment. By understanding factors like FICO scores, debt-to-income ratios, and loan purposes, financial institutions can make more informed lending decisions. Further analysis could involve predictive modeling to forecast loan defaults based on these factors.
