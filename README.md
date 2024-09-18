@@ -2,7 +2,7 @@
 
 
 ## Project Objective
-The main objective of this project is to analyze the trends, patterns, and correlations within the loan dataset. Through visualizations and statistical techniques, we aim to answer questions like:
+The main objective of this project is to analyze the trends, patterns, and correlations within the loan dataset. Through visualizations and statistical techniques, aim to answer questions like:
 What are the FICO score distribution patterns of loan applicants?
 How do different loan purposes impact the interest rate and income levels?
 What are the correlations between key variables like annual income, credit policy, and debt-to-income ratio?
